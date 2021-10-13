@@ -7,12 +7,16 @@
 </p>
 
 
-Hello Hackers! HacktoberFest has begun again for year 2021, and everyone's excited to get started!
-Contribute between: <h4>1 OCTOBER - 31 OCTOBER</h4>
+##Hello Hackers! HacktoberFest has begun again for year 2021, and everyone's excited to get started!
+
+###About Hacktoberfest
+Hacktoberfest is a month-long celebration of open source software run by DigitalOcean. During the month of October, they invite you to join open-source software enthusiasts, beginners, and the developer community by contributing to open-source projects.
+
+###Contribute between: <h4>1 OCTOBER - 31 OCTOBER</h4>
 
 Create a Pull request and add any feature update to the repository.
 
-* [Click here to register for hacktoberfest2021.](https://hacktoberfest.digitalocean.com/)
+[Click here to register for hacktoberfest2021.](https://hacktoberfest.digitalocean.com/)
 
 
 ### let's discuss how you can contribute in *hacktoberfest 2021* 🙌
@@ -21,11 +25,16 @@ https://hacktoberfest.digitalocean.com/
 ### Rules for contribution.
 **1)  Star⭐ and Fork this repository.**
 
-**2) Choose your favourite programming language.**
+**2) Participant can contribute anything he wishes for.**
+
+**3) Make sure to pull request in the respective folder.**
 
 **3) Add valid program (or code) on that sub repository.**
 
-**4) Don't forget to add the problem statement , comments and complexity.⚠️⚠️ It's a must part.**
+**4) Don't just copy and paste code from other website/blogs**
+
+**5) Don't forget to add the problem statement , comments and complexity.⚠️⚠️ It's a must part.**
+
 * Create a branch
 
 ```markdown
