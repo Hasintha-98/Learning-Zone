@@ -24,6 +24,7 @@ Create a Pull request and add any feature update to the repository.
 https://hacktoberfest.digitalocean.com/
 
 <h3>Rules for contribution</h3>
+
 **1)  Star⭐ and Fork this repository.**
 
 **2) Participant can contribute anything he wishes for.**
