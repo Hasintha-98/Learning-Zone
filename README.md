@@ -1,4 +1,4 @@
-# Website-Templates
+#  HacktoberFest21
 
 <p align="center">
     <a href="https://hacktoberfest.digitalocean.com/" target="_blank">
@@ -6,7 +6,6 @@
     </a>
 </p>
 
-# HacktoberFest21
 
 Hello Hackers! HacktoberFest has begun again for year 2021, and everyone's excited to get started!
 Contribute between: <h4>1 OCTOBER - 31 OCTOBER</h4>
