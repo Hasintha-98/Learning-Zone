@@ -13,7 +13,7 @@ Hello Hackers!🙌 HacktoberFest has begun again for year 2021, and everyone's e
 
 Hacktoberfest is a month-long celebration of open source software run by DigitalOcean. During the month of October, they invite you to join open-source software enthusiasts, beginners, and the developer community by contributing to open-source projects.
 
-Contribute between: <h4>1 OCTOBER - 31 OCTOBER</h4>
+<h3 style="background-color:Green;">Contribute between: 1 OCTOBER - 31 OCTOBER</h3>
 
 Create a Pull request and add any feature update to the repository.
 
