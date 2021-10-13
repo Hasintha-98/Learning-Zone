@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://hacktoberfest.digitalocean.com/" target="_blank">
-    	<img src="https://camo.githubusercontent.com/a397f6ebccc28ecb405dc402628feed070d549995fdc37e9a59ea50dc4e1e5c7/68747470733a2f2f692e6962622e636f2f4e7858787748582f646566696e652d6c6f676f2e6a7067" width="800px" height="400px">
+    	<img src="https://camo.githubusercontent.com/a397f6ebccc28ecb405dc402628feed070d549995fdc37e9a59ea50dc4e1e5c7/68747470733a2f2f692e6962622e636f2f4e7858787748582f646566696e652d6c6f676f2e6a7067" width="900px" height="400px">
     </a>
 </p>
 
