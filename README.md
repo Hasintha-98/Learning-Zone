@@ -7,9 +7,9 @@
 </p>
 
 
-##Hello Hackers! HacktoberFest has begun again for year 2021, and everyone's excited to get started!
+Hello Hackers!🙌 HacktoberFest has begun again for year 2021, and everyone's excited to get started!
 
-##About Hacktoberfest
+### About Hacktoberfest
 
 Hacktoberfest is a month-long celebration of open source software run by DigitalOcean. During the month of October, they invite you to join open-source software enthusiasts, beginners, and the developer community by contributing to open-source projects.
 
